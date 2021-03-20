@@ -1,9 +1,6 @@
-👋🏻  👋🏻  👋🏻
+I'm not capable of writing description
 
-👋🏻👋🏻👋🏻  👋🏻
-
-👋🏻  👋🏻  👋🏻
-
+My train of thoughts is lost
 
 
 <!---
