@@ -1,7 +1,8 @@
-I'm not capable of writing description
+Python coder here!
 
-My train of thoughts is lost
+Most of the repositories you can find here are a product of my lazy needs, mainly about media manipulation.
 
+I'm trying to include a GUI with every script I code, to simplify access and use even for beginners.
 
 <!---
 DeusAres/DeusAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
